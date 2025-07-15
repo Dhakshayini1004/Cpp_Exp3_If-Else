@@ -51,80 +51,10 @@ To:
 
 ---
 ### 🧪 Sample Output
-- Sizeof
+- Positive or negative number
 ```
-Size of various datatypes
-Integer: 4
-Float: 4
-Boolean: 1
-Long Integer: 8
-Short Integer: 2
-Double: 8
-Character: 1
-```
-- STATIC 
-```
-Address of func variable a : 0x404194
-Size of variable           : 4
-The variable is            : 1
-
-Address of func variable a : 0x404194
-Size of variable           : 4
-The variable is            : 2
-
-Address of func variable a : 0x404194
-Size of variable           : 4
-The variable is            : 3
-
-The variable is            : 5
-Address of global variable a : 0x404040
-```
-
-- AUTO
-```
-Address of func variable a: 0x7fff3392d2fc
-Size of variable: 4
-The variable is :5
-
-Address of func variable a: 0x7fff3392d2fc
-Size of variable: 4
-The variable is :5
-
-Address of func variable a: 0x7fff3392d2fc
-Size of variable: 4
-The variable is :5
-
-The variable is :5
-Address of global variable a: 0x404040
-```
-- EXTERN
-```
-Address of func variable a: 0x404040
-Size of variable: 4
-The variable is :6
-
-Address of func variable a: 0x404040
-Size of variable: 4
-The variable is :7
-
-Address of func variable a: 0x404040
-Size of variable: 4
-The variable is :8
-
-The variable is :8
-Address of global variable a: 0x404040
-```
-- REGISTER
-```
-Size of variable: 4
-The variable is :1
-
-Size of variable: 4
-The variable is :1
-
-Size of variable: 4
-The variable is :1
-
-The variable is :5
-Address of global variable a: 0x404040
+The variable x is 44
+The variable y is -55
+x is positive
+y is negative
 ```
