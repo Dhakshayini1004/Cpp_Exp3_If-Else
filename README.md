@@ -58,3 +58,13 @@ The variable y is -55
 x is positive
 y is negative
 ```
+- Grading System
+```
+Enter your Chemistry marks out of 100: 100
+Enter your Mathematics marks out of 100: 99
+Enter your Physics marks out of 100: 98
+Enter your C-Programming marks out of 100: 97
+Enter your Python marks out of 100: 96
+You have O grade :98%
+```
+
