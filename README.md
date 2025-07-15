@@ -67,4 +67,13 @@ Enter your C-Programming marks out of 100: 97
 Enter your Python marks out of 100: 96
 You have O grade :98%
 ```
+- Co-ordinate System
+```
+Enter x and y coordinates:0 0
+It is Origin
+```
+```
+Enter x and y coordinates:-3 -3
+3rd Quadrant
+```
 
