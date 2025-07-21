@@ -24,3 +24,9 @@ int main(){
         cout<<"y is negative"<<endl;
     }
 }
+
+/*Sample Output
+The variable x is 44
+The variable y is -55
+x is positive
+y is negative*/
