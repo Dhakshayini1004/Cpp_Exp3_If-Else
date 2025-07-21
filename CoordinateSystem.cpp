@@ -26,3 +26,11 @@ int main(){
     }
     return 0;
 }
+
+
+/*Sample Output
+Enter x and y coordinates:0 0
+It is Origin
+
+Enter x and y coordinates:-3 -3
+3rd Quadrant*/
