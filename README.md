@@ -43,7 +43,7 @@ To:
 - The simplest form of decision making.
 - Executes a block of code **only if a condition is true**.
 
-```
+```cpp
 if(condition) {
     // Executes only when condition is true
 }
@@ -53,7 +53,7 @@ if(condition) {
 #### 2. If-Else Statement
 - Provides an **alternative path** of execution when the condition is false.
 
-```
+```cpp
 if(condition) {
     // Executes if condition is true
 }
@@ -67,7 +67,7 @@ else {
 - One `if` or `else` block contains **another conditional block**.
 - Useful when there are **multiple levels of conditions**.
 
-```
+```cpp
 if(condition1) {
     if(condition2) {
         // Executes if both condition1 and condition2 are true
